@@ -401,7 +401,7 @@
 							"name": "source.js.jsx",
 							"patterns": [
 								{
-									"include": "source.js.jsx"
+									"include": "javascriptreact"
 								}
 							]
 						}
@@ -529,7 +529,7 @@
 							"name": "source.json.comments",
 							"patterns": [
 								{
-									"include": "source.json.comments"
+									"include": "jsonc"
 								}
 							]
 						}
@@ -561,7 +561,7 @@
 							"name": "source.json5",
 							"patterns": [
 								{
-									"include": "source.json5"
+									"include": "json5"
 								}
 							]
 						}
@@ -943,7 +943,7 @@
 					"include": "#template-tag"
 				},
 				{
-					"include": "text.html.derivative"
+					"include": "html"
 				},
 				{
 					"include": "text.html.basic"
